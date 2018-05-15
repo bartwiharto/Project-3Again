@@ -1,0 +1,21 @@
+.SUform {
+	font-family: 'Julius Sans One', sans-serif;
+	text-align: center;
+	font-size: 50px;
+	color: white;
+	margin-top: 8%;
+	text-shadow: 3px 3px #000;
+
+}
+
+p{
+	font-family: 'Julius Sans One', sans-serif;
+	font-size: 20px;
+}
+
+.hh4 {
+	z-index: -1;
+	position: absolute;
+	top: 10.3%;
+	left: 12%;	
+}

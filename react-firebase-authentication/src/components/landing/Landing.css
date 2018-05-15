@@ -1,0 +1,20 @@
+img {
+  position:relative;
+  margin:0;
+  border-right: none;
+  border-color: white;
+  border-width: 15px;
+}
+
+#landDesc {
+  z-index: 80;
+  font-family: 'Josefin Slab', serif;
+  font-size: 50px;
+  font-style: oblique;
+  position: absolute;
+  margin-top: 39%;
+  margin-left: 58%;
+  color: #878787;
+  text-shadow: 2px 2px #1F1F1F; 
+  letter-spacing: 4px;
+}

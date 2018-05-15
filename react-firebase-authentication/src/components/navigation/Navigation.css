@@ -1,0 +1,46 @@
+#header {
+  position: relative;
+  font-family: 'Julius Sans One', sans-serif;
+  font-size: 30px;
+  letter-spacing: 3px;
+  background-color: #222;
+  height: 50px;
+  padding: 35px 50px 50px 16px;
+  color: white;
+  opacity: 0.5;
+}
+
+#title {
+  font-size: 80px;
+  margin-bottom: 0px;
+  height: 70px;
+  width: 300px;
+}
+
+#nonAuthLinks {
+  font-size: 10px;
+  margin-right: 10px;
+}
+
+.container-fluid {
+  list-style-type: none;
+  font-size: 20px;
+  vertical-align: bottom;
+}
+
+li {
+  list-style-type: none;
+}
+
+.btn {
+  margin-top: 10px;
+}
+
+#drop {
+  margin-right: 50px;
+  background-color: #222;
+  color: white;
+  text-align: center;
+  padding-right: 5px;
+  padding-left: 5px;
+} 

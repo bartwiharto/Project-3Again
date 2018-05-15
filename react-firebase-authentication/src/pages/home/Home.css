@@ -1,0 +1,60 @@
+.directoryMenu {
+	font-family: 'Julius Sans One', sans-serif;
+	font-size: 120px;
+
+}
+
+#songMenu {
+	display: block;
+	margin: 10%;
+	background-image: url("./images/corey-blaz-5003-unsplash.jpg");
+	background-size: 50%;
+	background-repeat: no-repeat;
+	background-position: right;
+	padding-left: 80px;
+	color: white;
+	text-shadow: 4px 4px #000;
+	text-decoration: none;
+}
+
+@media screen and (min-width: 601px) {
+
+	#choreoMenu {
+		display: block;
+		margin: 10%;
+		background-image: url("./images/entitydance.png");
+		background-size: 50%;
+		background-repeat: no-repeat;
+		background-position: 0px -10px;
+		padding-right: 30px;
+		color: white;
+		text-align: right;
+		text-shadow: 4px 4px #000;
+		text-decoration: none;
+
+
+	}
+}
+
+#teamMenu {
+	display: block;
+	margin: 10%;
+	height: 180px;
+	background-image: url("./images/team.jpg");
+	background-size: 50%;
+	background-repeat: no-repeat;
+	background-position: right;
+	padding-left: 80px;
+	color: white;
+	text-shadow: 4px 4px #000;
+	text-decoration: none;
+
+}
+
+a:hover {background-color: #4E4A4A}
+
+a:active {
+  background-color: #4E4A4A;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}

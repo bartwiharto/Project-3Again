@@ -1,0 +1,23 @@
+.SIform {
+	font-family: 'Julius Sans One', sans-serif;
+	text-align: center;
+	font-size: 50px;
+	color: white;
+	margin-top: 8%;
+	text-shadow: 3px 3px #000;
+}
+
+form {
+	font-size: 20px;
+	font-family: 'Julius Sans One', sans-serif;
+
+}
+
+.haiti {
+	z-index: -1;
+	position: absolute;
+	border-right: none;
+	top: 10.3%;
+	height: 700px;
+	width: 850px;
+}
